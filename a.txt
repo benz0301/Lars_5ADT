@@ -9,3 +9,5 @@ aanbinden
 aanblikken
 aandrijven
 aanduwen
+
+test of ik dit kan pullen
